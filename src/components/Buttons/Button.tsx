@@ -15,6 +15,7 @@ export enum ButtonColorVariant {
 
 export enum ButtonSizeVariant {
   big = "big-btn",
+  long = 'long-btn',
   small = "small-btn",
 }
 
@@ -49,7 +50,8 @@ type LinkButtonProps = ButtonProps & {
 
 export const Button:React.FC<ButtonProps> = ({ variant, className, size, shape, colorVariant, content, link, chevronVariant, ...props }) => {
   const fontSize = shape == ButtonShapeVariant.circular ? 12 : 14;  
-  const baseClass = `btn ${shape || ""} ${size} ${colorVariant}`;
+  const baseClass = `btn ${shape || ""} ${size || ''} ${colorVariant || ''}`;
+  if(!className) className = '';
 
   let chevron:ReactNode = <></>;
   switch(chevronVariant) {

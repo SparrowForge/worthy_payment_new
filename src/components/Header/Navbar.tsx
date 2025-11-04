@@ -81,7 +81,7 @@ function Navbar() {
           {/* Center Column (Navigation Items) */}
           <div
             ref={dropdownRef}
-            className="hidden xl:flex flex-1 justify-center items-center gap-4 lg:px-2"
+            className="hidden xl:flex flex-1 justify-center items-center gap-2 lg:px-2"
           >
             {navItems.map((item) => {
               return (
@@ -106,11 +106,11 @@ function Navbar() {
           </div>
 
           {/* Right Column (Sign In + Contact) */}
-          <div className="hidden xl:flex justify-end items-center gap-4 lg:px-3">
+          <div className="hidden xl:flex justify-end items-center gap-2 lg:px-3">
             <Button
               link="/signin"
               shape={ButtonShapeVariant.default}
-              size={ButtonSizeVariant.small}
+              size={ButtonSizeVariant.long}
               colorVariant={ButtonColorVariant.transparentSecondary}
               content="Sign In"
               chevronVariant={ButtonChevronVariant.ChevronRight}
@@ -119,7 +119,7 @@ function Navbar() {
               <Button 
                 link="/contact"
                 shape={ButtonShapeVariant.default}
-                size={ButtonSizeVariant.small}
+                size={ButtonSizeVariant.long}
                 colorVariant={ButtonColorVariant.primary}
                 content="Contact Us"
                 chevronVariant={ButtonChevronVariant.ChevronRight}

@@ -1,0 +1,42 @@
+.layout-four-columns {
+    gap: 0;
+}
+.layout-four-columns .logo:nth-child(8n + 1),
+.layout-four-columns .logo:nth-child(8n + 2),
+.layout-four-columns .logo:nth-child(8n + 3),
+
+/* Even rows (2, 4, 6, ...): alternate columns starting at the 1st (i.e., 1st and 3rd) */
+.layout-four-columns .logo:nth-child(8n + 5),
+.layout-four-columns .logo:nth-child(8n + 7) {
+ position: relative; 
+}
+
+.layout-four-columns .logo:nth-child(8n + 1)::before,
+.layout-four-columns .logo:nth-child(8n + 2)::before,
+.layout-four-columns .logo:nth-child(8n + 3)::before,
+
+/* Even rows (2, 4, 6, ...): alternate columns starting at the 1st (i.e., 1st and 3rd) */
+.layout-four-columns .logo:nth-child(8n + 5)::before,
+.layout-four-columns .logo:nth-child(8n + 7)::before {
+ content: "+";
+ position: absolute;
+ right: -5px;
+ top: -13px;
+ color: #7C8389;
+}
+
+.layout-four-columns .logo:nth-child(8n + 5)::after,
+.layout-four-columns .logo:nth-child(8n + 7)::after {
+ content: "+";
+ position: absolute;
+ right: -5px;
+ bottom: -13px;
+ color: #7C8389;
+}
+
+
+@media (max-width: 1024px) {
+ .layout-four-columns .logo::before, .layout-four-columns .logo::after {
+     display: none;
+ }
+}

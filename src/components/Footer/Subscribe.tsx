@@ -6,7 +6,6 @@ import {
   ButtonShapeVariant,
   ButtonSizeVariant
 } from "../Buttons/Button";
-import { Linkedin, Facebook, Twitter, Instagram } from "lucide-react";
 
 const SocialIcon: React.FC<{
   ariaLabel: string;

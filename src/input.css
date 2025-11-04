@@ -16,7 +16,7 @@
   --fw-title-md: 700;
 
   --fs-subtitle: 38px;
-  --lh-subtitle: 1.35;
+  --lh-subtitle: 1;
   --fw-subtitle: 600;
 
   --fs-subtitle-md: 24px;
@@ -71,6 +71,7 @@
   --color-white: #FFFFFF;
   --color-brand: #11C473;
   --color-dark: #0E1411;
+  --color-gray: #424443;
   --color-border-white: #E3E3E3;
   --color-border-dark: #1E2422;
 
@@ -191,6 +192,7 @@
 /* Color */
 .font-heading-color { color: var(--color-heading); }
 .font-body-color { color: var(--color-body); }
+.font-body-color-gray {color: var(--color-gray)}
 .font-card-subtitle-color { color: var(--color-card-subtitle); }
 .font-white-color { color: var(--color-white); }
 
@@ -269,6 +271,9 @@
 }
 .big-btn {
   padding: 16px 8px;
+}
+.long-btn {
+  padding: 8px 16px;
 }
 .small-btn {
   padding: 12px 6px;
