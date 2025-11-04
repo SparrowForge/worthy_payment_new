@@ -110,7 +110,7 @@ function Navbar() {
             <Button
               link="/signin"
               shape={ButtonShapeVariant.default}
-              size={ButtonSizeVariant.big}
+              size={ButtonSizeVariant.small}
               colorVariant={ButtonColorVariant.transparentSecondary}
               content="Sign In"
               chevronVariant={ButtonChevronVariant.ChevronRight}
@@ -119,7 +119,7 @@ function Navbar() {
               <Button 
                 link="/contact"
                 shape={ButtonShapeVariant.default}
-                size={ButtonSizeVariant.big}
+                size={ButtonSizeVariant.small}
                 colorVariant={ButtonColorVariant.primary}
                 content="Contact Us"
                 chevronVariant={ButtonChevronVariant.ChevronRight}

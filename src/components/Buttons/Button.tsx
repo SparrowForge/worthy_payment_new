@@ -48,22 +48,22 @@ type LinkButtonProps = ButtonProps & {
 
 
 export const Button:React.FC<ButtonProps> = ({ variant, className, size, shape, colorVariant, content, link, chevronVariant, ...props }) => {
-  const fontSize = shape == ButtonShapeVariant.circular ? 14 : 16;  
+  const fontSize = shape == ButtonShapeVariant.circular ? 12 : 14;  
   const baseClass = `btn ${shape || ""} ${size} ${colorVariant}`;
 
   let chevron:ReactNode = <></>;
   switch(chevronVariant) {
     case ButtonChevronVariant.arrowLeft:
-      chevron = <ArrowLeft size={fontSize} />;
+      chevron = <ArrowLeft size={fontSize} className="ml-1" />;
       break;
     case ButtonChevronVariant.arrowRight:
-      chevron = <ArrowRight size={fontSize} />;
+      chevron = <ArrowRight size={fontSize} className="ml-1" />;
       break;
     case ButtonChevronVariant.ChevronDown:
-      chevron = <ChevronDown size={fontSize} />;
+      chevron = <ChevronDown size={fontSize} className="ml-1" />;
       break;
     case ButtonChevronVariant.ChevronRight:
-      chevron = <ChevronRight size={fontSize} />;
+      chevron = <ChevronRight size={fontSize} className="ml-1" />;
       break;
   }
   
