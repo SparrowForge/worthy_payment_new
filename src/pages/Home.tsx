@@ -1,4 +1,5 @@
 import HomeInfraBanner from "../components/Home/InfraBanner";
+import Integration from "../components/Home/Integration";
 import Logos from "../components/Home/Logos";
 // import Header from "../components/Header/Header";
 
@@ -10,6 +11,7 @@ function Home() {
                 <img src="/images/dashboard.png" className="relative inline-block" />
             </div>
             <Logos />
+            <Integration />
         </div>
     </div>;
 }

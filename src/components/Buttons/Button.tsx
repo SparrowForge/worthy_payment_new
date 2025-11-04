@@ -1,6 +1,6 @@
 import { link } from "fs/promises";
 import React, { ButtonHTMLAttributes, ReactNode } from "react";
-import { ChevronLeft, ChevronRight, ChevronDown, ArrowRight, ArrowLeft } from "lucide-react"; 
+import { ChevronRight, ChevronDown, ArrowRightCircle, ArrowLeftCircle, ArrowLeftCircleIcon, ArrowRightCircleIcon } from "lucide-react"; 
 import { Link } from "react-router-dom";
 
 
@@ -40,26 +40,24 @@ type ButtonProps = {
   content: string;
   chevronVariant?: ButtonChevronVariant;
   link?: string;
+  separator?: boolean;
 } & ButtonHTMLAttributes<HTMLButtonElement>
 
 
-type LinkButtonProps = ButtonProps & {
-  to: string
-}
-
-
-export const Button:React.FC<ButtonProps> = ({ variant, className, size, shape, colorVariant, content, link, chevronVariant, ...props }) => {
+export const Button:React.FC<ButtonProps> = ({ variant, className, size, shape, colorVariant, content, link, chevronVariant, separator, ...props }) => {
   const fontSize = shape == ButtonShapeVariant.circular ? 12 : 14;  
   const baseClass = `btn ${shape || ""} ${size || ''} ${colorVariant || ''}`;
   if(!className) className = '';
 
   let chevron:ReactNode = <></>;
+
+  
   switch(chevronVariant) {
     case ButtonChevronVariant.arrowLeft:
-      chevron = <ArrowLeft size={fontSize} className="ml-1" />;
+      chevron = <ArrowLeftCircleIcon size={fontSize + 5} className="ml-1" fill={colorVariant === ButtonColorVariant.transparentSecondary ? "#17D982" : undefined} color={colorVariant == ButtonColorVariant.transparentSecondary ? "#FFFFFF" : undefined} />;
       break;
     case ButtonChevronVariant.arrowRight:
-      chevron = <ArrowRight size={fontSize} className="ml-1" />;
+      chevron = <ArrowRightCircleIcon size={fontSize + 5} className="ml-1" fill={colorVariant === ButtonColorVariant.transparentSecondary ? "#17D982" : undefined} color={colorVariant == ButtonColorVariant.transparentSecondary ? "#FFFFFF" : undefined} />;
       break;
     case ButtonChevronVariant.ChevronDown:
       chevron = <ChevronDown size={fontSize} className="ml-1" />;
@@ -73,7 +71,7 @@ export const Button:React.FC<ButtonProps> = ({ variant, className, size, shape, 
     return (
       <button className={`${baseClass} ${className || ''}`} {...props}>
         <Link to={link} className="inline-flex items-center">
-        {content}
+        <span className={separator ? "border-r border-dashed border-r-[#E3E3E3] pr-2" : ""}>{content}</span>
         {chevron}
         </Link>
       </button>
@@ -82,7 +80,8 @@ export const Button:React.FC<ButtonProps> = ({ variant, className, size, shape, 
 
   return (
     <button className={`${baseClass} ${className || ''}`} {...props}>
-      {content}
+      
+      <span className={separator ? "border-r border-dashed border-r-[#E3E3E3] pr-2" : ""}>{content}</span>
       {chevron}
     </button>
   )

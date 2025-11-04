@@ -37,7 +37,7 @@ function Subscribe() {
             shape={ButtonShapeVariant.default}
             colorVariant={ButtonColorVariant.primary}
             content="Subscribe to Newsletter"
-            chevronVariant={ButtonChevronVariant.arrowRight}
+            chevronVariant={ButtonChevronVariant.ChevronRight}
             link="/newsletter"
             className="w-full flex justify-center"
           />

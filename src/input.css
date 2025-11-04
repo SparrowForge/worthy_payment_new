@@ -140,6 +140,12 @@
   gap: var(--grid-gap);
 }
 
+.layout-two-columns-img-right {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--grid-gap);
+}
+
 /* 📐 Three Columns Layout */
 .layout-three-columns {
   display: grid;
@@ -279,5 +285,5 @@
   padding: 12px 6px;
 }
 .circular-btn {
-  border-radius: 6px 16px 6px 12px;
+  border-radius: 25px;
 }
