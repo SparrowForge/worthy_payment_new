@@ -53,3 +53,26 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
+
+
+### Components (Pending Tasks)
+
+1. Card
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=565-9181&t=wGaOeIEkTdaj7xb7-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=61-1391&t=wGaOeIEkTdaj7xb7-4
+
+
+
+2. Carousel
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=570-1648&t=wGaOeIEkTdaj7xb7-4
+
+3. Banner
+
+
+4. List
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=570-1828&t=wGaOeIEkTdaj7xb7-4
+

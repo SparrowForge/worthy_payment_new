@@ -27,3 +27,5 @@ figma/jsons/**.json
 
 
 .env
+
+.ipynb_checkpoints

@@ -1,6 +1,7 @@
 import HomeInfraBanner from "../components/Home/InfraBanner";
 import Integration from "../components/Home/Integration";
 import Logos from "../components/Home/Logos";
+import Card1 from "../components/Home/Card1";
 // import Header from "../components/Header/Header";
 
 function Home() {
@@ -12,6 +13,7 @@ function Home() {
             </div>
             <Logos />
             <Integration />
+            {/* <Card1 className="mt-xl" /> */}
         </div>
     </div>;
 }
