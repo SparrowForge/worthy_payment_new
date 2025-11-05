@@ -64,15 +64,40 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=61-1391&t=wGaOeIEkTdaj7xb7-4
 
 
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=61-1367&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=61-1460&t=H8wdfXrGFr28GwGO-4
+
 
 2. Carousel
 
 - https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=570-1648&t=wGaOeIEkTdaj7xb7-4
 
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=61-1636&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=61-2463&t=H8wdfXrGFr28GwGO-4
+
+
 3. Banner
+
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=61-1837&t=H8wdfXrGFr28GwGO-4
+
 
 
 4. List
 
 - https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=570-1828&t=wGaOeIEkTdaj7xb7-4
 
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=102-705&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=122-1235&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=102-2133&t=H8wdfXrGFr28GwGO-4
+
+
+
+5. Filters
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=122-1200&t=H8wdfXrGFr28GwGO-4
