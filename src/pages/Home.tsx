@@ -13,7 +13,7 @@ function Home() {
             </div>
             <Logos />
             <Integration />
-            {/* <Card1 className="mt-xl" /> */}
+            <Card1 className="mt-xl" />
         </div>
     </div>;
 }

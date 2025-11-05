@@ -69,6 +69,15 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=61-1460&t=H8wdfXrGFr28GwGO-4
 
 
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=177-3113&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=334-4469&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=427-646&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=541-3501&t=H8wdfXrGFr28GwGO-4
+
+
 2. Carousel
 
 - https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=570-1648&t=wGaOeIEkTdaj7xb7-4
@@ -78,6 +87,13 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 - https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=61-2463&t=H8wdfXrGFr28GwGO-4
 
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=359-5100&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=359-5350&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=453-7779&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=2124-1927&t=H8wdfXrGFr28GwGO-4
 
 3. Banner
 
@@ -96,8 +112,38 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 - https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=102-2133&t=H8wdfXrGFr28GwGO-4
 
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=625-1553&t=H8wdfXrGFr28GwGO-4
 
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=143-2371&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=451-5217&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=465-4784&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=523-364&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=512-5661&t=H8wdfXrGFr28GwGO-4
 
 5. Filters
 
 - https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=122-1200&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=170-2416&t=H8wdfXrGFr28GwGO-4
+
+
+6. Forms
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=642-1568&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=455-7988&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=528-2439&t=H8wdfXrGFr28GwGO-4
+
+
+7. Tables
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=525-4535&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=549-2193&t=H8wdfXrGFr28GwGO-4
+
+- https://www.figma.com/design/Dm0rcuxF6AYnlaHKpwCJjR/Worthy-Payments-Website--Copy-File----Partial-file-saved-11-3-2025?node-id=552-4254&t=H8wdfXrGFr28GwGO-4
