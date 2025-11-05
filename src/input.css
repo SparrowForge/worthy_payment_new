@@ -240,7 +240,6 @@
 
 .btn {
   display: inline-flex;
-  margin: var(--m-xs) 0;
   align-items: center;
   cursor: pointer;
   border-radius: 10px;
